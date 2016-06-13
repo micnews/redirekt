@@ -4,7 +4,7 @@
   "description": "simple http redirects in node",
   "main": "index.js",
   "scripts": {
-    "test": "node test/* && semistandard | snazzy"
+    "test": "node test/integration.js && semistandard | snazzy"
   },
   "repository": {
     "type": "git",
@@ -23,7 +23,7 @@
   "homepage": "https://github.com/micnews/redirekt#readme",
   "devDependencies": {
     "semistandard": "^8.0.0",
-    "sinon": "^1.17.4",
+    "servertest": "^1.2.1",
     "snazzy": "^4.0.0",
     "tape": "^4.5.1"
   }
