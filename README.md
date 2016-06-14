@@ -1,4 +1,4 @@
-# redirekt
+# redirekt [![Build Status](https://travis-ci.org/micnews/redirekt.svg?branch=master)](https://travis-ci.org/micnews/redirekt)
 
 A library that provides a simple lightweight method for redirecting http requests in your applications!
 
