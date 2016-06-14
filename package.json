@@ -1,6 +1,6 @@
 {
   "name": "redirekt",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "simple http redirects in node",
   "main": "index.js",
   "scripts": {
