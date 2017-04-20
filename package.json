@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/micnews/redirekt#readme",
   "devDependencies": {
-    "semistandard": "^9.0.0",
+    "semistandard": "^11.0.0",
     "servertest": "^1.2.1",
     "snazzy": "^5.0.0",
     "tape": "^4.5.1"
